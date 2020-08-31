@@ -5,7 +5,10 @@
 82.147.133.145 r1.sn-4g5e6nz7.googlevideo.com
 82.147.133.145 r1.sn-4g5e6nzz.googlevideo.com
 82.147.133.145 r1.sn-4g5ednee.googlevideo.com
+82.147.133.145 r1.sn-aigzrn76.googlevideo.com
 82.147.133.145 r1.sn-hvcpauxa-nv4s.googlevideo.com
+82.147.133.145 r1.sn-i5h7lned.googlevideo.com
+82.147.133.145 r1.sn-i5heen7z.googlevideo.com
 82.147.133.145 r1.sn-nv47ln7z.googlevideo.com
 82.147.133.145 r1.sn-nv47lnl6.googlevideo.com
 82.147.133.145 r1.sn-nv47lnl7.googlevideo.com
@@ -14,6 +17,7 @@
 82.147.133.145 r1.sn-nv47lns7.googlevideo.com
 82.147.133.145 r1.sn-nv47lnsd.googlevideo.com
 82.147.133.145 r1.sn-nv47lnsy.googlevideo.com
+82.147.133.145 r1.sn-q4fl6nlz.googlevideo.com
 82.147.133.145 r1.sn-vgqsknls.googlevideo.com
 82.147.133.145 r2.sn-4g5e6ne6.googlevideo.com
 82.147.133.145 r2.sn-4g5e6nlk.googlevideo.com
@@ -21,6 +25,7 @@
 82.147.133.145 r2.sn-4g5ednld.googlevideo.com
 82.147.133.145 r2.sn-4g5ednsl.googlevideo.com
 82.147.133.145 r2.sn-4g5ednzz.googlevideo.com
+82.147.133.145 r2.sn-aigzrn76.googlevideo.com
 82.147.133.145 r2.sn-hp57ynel.googlevideo.com
 82.147.133.145 r2.sn-hvcpauxa-nv4s.googlevideo.com
 82.147.133.145 r2.sn-nv47ln7e.googlevideo.com
@@ -50,6 +55,7 @@
 82.147.133.145 r3.sn-nv47ln7z.googlevideo.com
 82.147.133.145 r3.sn-nv47lney.googlevideo.com
 82.147.133.145 r3.sn-nv47lnl6.googlevideo.com
+82.147.133.145 r3.sn-nv47lnl7.googlevideo.com
 82.147.133.145 r3.sn-nv47lnls.googlevideo.com
 82.147.133.145 r3.sn-nv47lnly.googlevideo.com
 82.147.133.145 r3.sn-nv47lnlz.googlevideo.com
@@ -65,11 +71,14 @@
 82.147.133.145 r4.sn-9gv7enek.googlevideo.com
 82.147.133.145 r4.sn-a5mlrn7s.googlevideo.com
 82.147.133.145 r4.sn-hvcpauxa-nv4s.googlevideo.com
+82.147.133.145 r4.sn-i5heen7s.googlevideo.com
 82.147.133.145 r4.sn-nv47ln7e.googlevideo.com
 82.147.133.145 r4.sn-nv47ln7l.googlevideo.com
 82.147.133.145 r4.sn-nv47ln7s.googlevideo.com
+82.147.133.145 r4.sn-nv47ln7z.googlevideo.com
 82.147.133.145 r4.sn-nv47lney.googlevideo.com
 82.147.133.145 r4.sn-nv47lnl7.googlevideo.com
+82.147.133.145 r4.sn-nv47lnly.googlevideo.com
 82.147.133.145 r4.sn-nv47lnlz.googlevideo.com
 82.147.133.145 r4.sn-nv47lns6.googlevideo.com
 82.147.133.145 r4.sn-nv47lnsd.googlevideo.com
@@ -81,6 +90,7 @@
 82.147.133.145 r5.sn-4g5ednsz.googlevideo.com
 82.147.133.145 r5.sn-5go7ynez.googlevideo.com
 82.147.133.145 r5.sn-5ualdn7r.googlevideo.com
+82.147.133.145 r5.sn-5ualdn7z.googlevideo.com
 82.147.133.145 r5.sn-9gv7lnes.googlevideo.com
 82.147.133.145 r5.sn-a5meknll.googlevideo.com
 82.147.133.145 r5.sn-hvcpauxa-nv4s.googlevideo.com
@@ -92,9 +102,13 @@
 82.147.133.145 r5.sn-nv47lns7.googlevideo.com
 82.147.133.145 r5.sn-nv47lnsd.googlevideo.com
 82.147.133.145 r5.sn-nv47lnsk.googlevideo.com
+82.147.133.145 r5.sn-nv47lnsr.googlevideo.com
 82.147.133.145 r5.sn-nv47lnsy.googlevideo.com
+82.147.133.145 r5.sn-p5qlsns6.googlevideo.com
+82.147.133.145 r5.sn-t0a7ln7d.googlevideo.com
 82.147.133.145 r6.sn-hvcpauxa-nv4s.googlevideo.com
 82.147.133.145 r6.sn-nv47ln7e.googlevideo.com
+82.147.133.145 r6.sn-nv47ln7s.googlevideo.com
 82.147.133.145 r6.sn-nv47lney.googlevideo.com
 82.147.133.145 r6.sn-nv47lnl6.googlevideo.com
 82.147.133.145 r6.sn-nv47lnl7.googlevideo.com
